@@ -11,7 +11,7 @@ It is expected that you have a base knowledge of the fights, and whilst we may n
 
 Please watch the Joardee guides listed here, I know they are long but they are going to go a long way in helping you understand the encounter. 
 Try and watch what is happening on the screen rather than just listening, it will help you pick up on various nuances. 
-[Joardee Guides]([https://breakdance.github.io/breakdance/](https://www.youtube.com/@Joardee))
+[Joardee Guides](https://www.youtube.com/@Joardee)
 
 Our Raid Assignments are as follows, please go through all the tabs at a first glance and see where you fit in so there are no surprises.
 [Sheet: This will be kept up to date week to week and is where you will find the roster](https://docs.google.com/spreadsheets/d/12ewyA8AGRln-gefoQ0yVON2NqEot_Ns2ju5_Sz8EHTQ/edit#gid=0)

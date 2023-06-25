@@ -23,8 +23,7 @@ Our Raid Assignments are as follows, please go through all the tabs at a first g
 ### Health Reduction Macro - Anub'arak last phase (ALL HEALERS AND DPS (TANKS DO NOT USE YOU MAY DIE))
 Because Anub'arak does 30% Current Health % Leech, the less health you have the less he leeches overall, tanks keep all stam buffs 
 ```txt
-#showtooltip Mighty Frost Protection
-Potion
+#showtooltip Mighty Frost Protection Potion
 /use [combat,group:raid]Mighty Frost Protection Potion
 /cancelaura Commanding Shout
 /cancelaura Prayer of Fortitude
